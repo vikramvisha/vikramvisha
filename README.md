@@ -1,4 +1,5 @@
 - 👋 Hi, I’m VIKRAM G
+- Student of Hindusthan College of Engineering and Technology
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning in Full Stack Developing
 - 💞️ I’m looking to collaborate on Web design Applications
